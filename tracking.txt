@@ -1,0 +1,1 @@
+10/08/2018: compare django vs flask, choose flask, since small project, and i like micro-service, django is just too much. installed nerd-tree, getting familiar with it. Getting familiar with buffers in vim.
