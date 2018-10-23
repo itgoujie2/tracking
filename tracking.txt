@@ -4,3 +4,4 @@
 10/11/2018: almost nothing, looked into postgres issue on my laptop, need to change
 10/14/2018: fixed postgres on laptop, following a tutorial to learn flask/postgres stack
 10/15/2018: follow tutorial, set up virtualenv
+10/22/2018: follow tutorial, on the data model part, looked at some day trading videos for fun
