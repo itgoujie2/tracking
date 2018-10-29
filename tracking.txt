@@ -6,3 +6,4 @@
 10/15/2018: follow tutorial, set up virtualenv
 10/22/2018: follow tutorial, on the data model part, looked at some day trading videos for fun
 10/23/2018: similar to yesterday
+10/28/2018: found follow the tutorial https://www.codementor.io/olawalealadeusi896/restful-api-with-python-flask-framework-and-postgres-db-part-1-kbrwbygx5#installing-project-dependencies is pretty stupid, bad tutorial with errors.. will just follow the default flask tutorial
